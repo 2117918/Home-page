@@ -38,7 +38,7 @@ a {
 html,
 body {
     width: 100%;
-    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", "微软雅黑", sans-serif;
+    font-family: "Arial", sans-serif;
 }
 
 body {
@@ -54,8 +54,6 @@ html {
 }
 
 
-/*清除浮动*/
-
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -69,8 +67,6 @@ html {
     *zoom: 1;
 }
 
-
-/*隐藏*/
 
 .dn {
     display: none;
